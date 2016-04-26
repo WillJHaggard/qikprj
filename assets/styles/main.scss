@@ -1,0 +1,13 @@
+// Project SASS
+
+// Include Sass partialS
+@import 'reset';
+
+
+body {
+  font-size: 100%;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #3A3A3A;
+  transform: translateZ(0);
+  height: 100%;
+}
